@@ -1,0 +1,13 @@
+.*
+!.gitignore
+
+# Windows
+Thumbs.db
+
+# Node.js
+node_modules
+*.log
+
+# MongoDB
+db/*
+!db/mongodb.conf
